@@ -1,0 +1,118 @@
+.org {
+  margin-top: 10rem;
+
+  font-weight: 500;
+}
+.size{
+ width:150px;
+ height: 100px;
+
+}
+
+
+img{
+    width: 324px;
+    height: 216px;
+    object-fit: scale-down;
+}
+
+
+.org-chart{
+    background-color: gray;
+    color: #fff;
+    margin:  10px;
+}
+
+
+
+
+.team-leader {
+  margin-top: 1rem;
+}
+
+.manager {
+  background: url("../images/tim.jpg");
+  background-repeat: no-repeat;
+
+  height: 20rem;
+}
+
+.manager2 {
+  background: url("../images/foto.jpg");
+  background-repeat: no-repeat;
+
+  height: 20rem;
+}
+
+.manager3 {
+  background: url("../images/guyd.jpg");
+  background-repeat: no-repeat;
+
+  height: 20rem;
+}
+
+
+
+.associate {
+  background: url("../images/tamarcus.jpg");
+  background-repeat: no-repeat;
+
+  height: 20rem;
+}
+
+.associatea {
+  background: url("../images/bruce.jpg");
+  background-repeat: no-repeat;
+
+  height: 20rem;
+}
+
+.associateb {
+  background: url("../images/gregory.jpg");
+  background-repeat: no-repeat;
+
+  height: 20rem;
+}
+.associate1 {
+  padding-right: 0px;
+}
+
+/*Photo by samsommer on Unsplash*/
+/*Photo by eberhard grossgasteiger on Unsplash*/
+/*Photo by Joshua Reddekopp on Unsplash*/
+
+/*body {
+  background-image: url("../images/mountain3.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: right top;
+  z-index: 1;
+}*/
+
+
+
+
+
+.associate2{
+background: url("../images/Summit FA.png");
+  background-repeat: no-repeat;
+
+  height: 20rem;
+
+}
+
+span {
+    display: block;
+}
+
+.menuitem{
+
+text-align: center;
+
+}
+
+.menuitem i{
+
+    text-align: center;
+    padding: 0;
+}
