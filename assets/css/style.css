@@ -39,10 +39,11 @@ img{
 }
 
 .manager2 {
-  background: url("../images/foto.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
+  margin-left: 1rem;
+    background: url(../images/foto.jpg);
+    background-repeat: no-repeat;
+    height: 15rem;
+  
 }
 
 .manager3 {
