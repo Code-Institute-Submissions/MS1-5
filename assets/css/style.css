@@ -83,14 +83,16 @@ img{
 /*Photo by eberhard grossgasteiger on Unsplash*/
 /*Photo by Joshua Reddekopp on Unsplash*/
 
-/*body {
-  background-image: url("../images/mountain3.jpg");
+ /*body {
+  background-image: url("../images/triangle.png");
   background-size: cover;
   background-attachment: fixed;
-  background-position: right top;
-  z-index: 1;
-}*/
-
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  
+}
+*/
 
 
 
