@@ -144,12 +144,26 @@ font-weight: 600;
 
 .table1{
     width:80%;
+    margin-left: 10%;
 }
 
 .table2{
     width:90%;
+    margin-left: 5%;
 }
 
 .table3{
     width:100%;
+}
+
+.progress-client1 {
+width: 70%;
+
+}
+
+/*Background Photo by Annie Spratt on Unsplash*/
+/*Photo by Noorulabdeen Ahmad on Unsplash - Clouds*/
+
+body {
+    background-image:  url("../images/ian.jpg");
 }
