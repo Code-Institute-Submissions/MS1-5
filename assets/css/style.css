@@ -129,6 +129,14 @@ margin-right: 10px;
 margin-left: 10px;
 }
 
+.spacingclientbespokeprocesses{
+    margin-bottom: 100px}
+}
+
+.spacingclientbespokeprocessesfooter{
+    margin-bottom: 150px;
+}
+
 .footerspacing{
 
 margin-top: 150px;
@@ -161,6 +169,20 @@ width: 70%;
 
 }
 
+.progress-kbc {
+width: 90%;
+
+}
+
+.table-kbc {
+width: 80%;
+
+}
+
+.bespoke-kbc {
+width: 100%;
+
+}
 /*Background Photo by Annie Spratt on Unsplash*/
 /*Photo by Noorulabdeen Ahmad on Unsplash - Clouds*/
 
