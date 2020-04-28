@@ -57,14 +57,29 @@ margin-bottom: 1rem;
     margin-bottom: 150px;
 }
 
-/*-----------------------------------End--Fund-Info-------------------------*/
+.table1{
+    width:80%;
+    margin-left: 10%;
+}
 
-.footerspacing{
+.table2 {
+    width:90%;
+    margin-left: 5%;
+}
 
+.table3 {
+    width:100%;
+}
+
+.footerspacing {
 margin-top: 150px;
 margin-right: 10px;
 margin-left: 10px;
 }
+
+/*-----------------------------------End--Fund-Info-------------------------*/
+
+
 
 .marybio{
 text-align: center;
@@ -74,19 +89,11 @@ font-weight: 600;
 
 
 
-.table1{
-    width:80%;
-    margin-left: 10%;
-}
 
-.table2{
-    width:90%;
-    margin-left: 5%;
-}
 
-.table3{
-    width:100%;
-}
+
+
+
 
 .progress-client1 {
 width: 70%;
