@@ -187,16 +187,17 @@ width: 80%;
 width: 100%;
 
 }
-/*Background Photo by Annie Spratt on Unsplash*/
+
 /*Photo by Noorulabdeen Ahmad on Unsplash - Clouds*/
 
 body {
     background-image:  url("../images/cloud.jpg");
     background-size: cover;
     
+    
 }
 
-/*boardroom Photo by Drew Beamer on Unsplash*/
+
 
 .orgchartspacing{
 
@@ -208,4 +209,11 @@ h3, h4 {
 
     color: black;
     font-weight: 700;
+}
+
+.table{
+
+    color: #fff;
+    font-weight: 900;
+    
 }
