@@ -5,7 +5,7 @@
 }
 
 .org-chart{
-    background-color: gray;
+    background-color: black;
     color: #fff;
     margin:  10px;
     }
@@ -17,6 +17,10 @@ text-align: center;
 .menuitem i {
  text-align: center;
     padding: 0;
+}
+
+span {
+    display: block;
 }
 /*-------------------------------------EndHeader-------------------------*/
 
@@ -34,93 +38,9 @@ margin-bottom: 1rem;
 
 /*-------------------------------------EndOrgChart-------------------------*/
 
-.org {
-  margin-top: 10rem;
-
-  font-weight: 500;
-
-}
-
-
-img{
-    width: 324px;
-    height: 216px;
-    object-fit: scale-down;
-}
-
-
-.team-leader {
-  margin-top: 1rem;
-}
-
-.manager {
-  background: url("../images/tim.jpg");
-  background-repeat: no-repeat;
-
-  height: 15rem;
-}
-
-.manager2 {
-  margin-left: 1rem;
-    background: url(../images/foto.jpg);
-    background-repeat: no-repeat;
-    height: 15rem;
-  
-}
-
-.manager3 {
-  background: url("../images/viktor.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-}
 
 
 
-.associate {
-  background: url("../images/tamarcus.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-}
-
-.associatea {
-  background: url("../images/bruce.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-}
-
-.associateb {
-  background: url("../images/gregory.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-}
-.associate1 {
-  padding-right: 0px;
-}
-
-/*Photo by samsommer on Unsplash*/
-/*Photo by eberhard grossgasteiger on Unsplash*/
-/*Photo by Joshua Reddekopp on Unsplash*/
-
- 
-
-
-
-
-.associate2{
-background: url("../images/Summit FA.png");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-
-}
-
-span {
-    display: block;
-}
 
 
 
