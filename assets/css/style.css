@@ -41,21 +41,23 @@ margin-bottom: 1rem;
 
 
 
+/*-------------------------------------Profile-Pages-------------------------*/
 
+.profilespacing {
+    margin-bottom: 3rem;
+}
 
-
-
-
-
-
-
-.spacingclientbespokeprocesses{
+.spacingclientbespokeprocesses {
     margin-bottom: 100px}
 }
 
-.spacingclientbespokeprocessesfooter{
+/*-------------------------------------Fund-Info-------------------------*/
+
+.spacingclientbespokeprocessesfooter {
     margin-bottom: 150px;
 }
+
+/*-----------------------------------End--Fund-Info-------------------------*/
 
 .footerspacing{
 
@@ -70,9 +72,7 @@ font-weight: 600;
 
 }
 
-.profilespacing{
-    margin-bottom: 3rem;
-}
+
 
 .table1{
     width:80%;
