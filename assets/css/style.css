@@ -1,12 +1,43 @@
+/*-------------------------------------Header-------------------------*/
+.size {
+ width:150px;
+ height: 100px;
+}
+
+.org-chart{
+    background-color: gray;
+    color: #fff;
+    margin:  10px;
+    }
+
+.menuitem {
+text-align: center;
+}
+
+.menuitem i {
+ text-align: center;
+    padding: 0;
+}
+/*-------------------------------------EndHeader-------------------------*/
+
+/*-------------------------------------OrgChart-------------------------*/
+
+.smspacing {
+margin-bottom: 150px;
+margin-right: 10px;
+margin-left: 10px;
+}
+
+.orgchartspacing {
+margin-bottom: 1rem;
+}
+
+/*-------------------------------------EndOrgChart-------------------------*/
+
 .org {
   margin-top: 10rem;
 
   font-weight: 500;
-
-}
-.size{
- width:150px;
- height: 100px;
 
 }
 
@@ -16,15 +47,6 @@ img{
     height: 216px;
     object-fit: scale-down;
 }
-
-
-.org-chart{
-    background-color: gray;
-    color: #fff;
-    margin:  10px;
-}
-
-
 
 
 .team-leader {
@@ -83,16 +105,7 @@ img{
 /*Photo by eberhard grossgasteiger on Unsplash*/
 /*Photo by Joshua Reddekopp on Unsplash*/
 
- /*body {
-  background-image: url("../images/triangle.png");
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
-  height: 100%;
-  width: 100%;
-  
-}
-*/
+ 
 
 
 
@@ -109,25 +122,12 @@ span {
     display: block;
 }
 
-.menuitem{
-
-text-align: center;
-
-}
-
-.menuitem i{
-
-    text-align: center;
-    padding: 0;
-}
 
 
-.smspacing{
 
-margin-bottom: 150px;
-margin-right: 10px;
-margin-left: 10px;
-}
+
+
+
 
 .spacingclientbespokeprocesses{
     margin-bottom: 100px}
@@ -199,11 +199,7 @@ body {
 
 
 
-.orgchartspacing{
 
-margin-bottom: 1rem;
-
-}
 
 h3, h4 {
 
