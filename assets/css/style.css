@@ -5,7 +5,7 @@
 }
 
 .org-chart{
-    background-color: black;
+    background-color: darkslateblue;
     color: #fff;
     margin:  10px;
     }
@@ -52,32 +52,44 @@ margin-bottom: 1rem;
 }
 
 /*-------------------------------------Fund-Info-------------------------*/
-
-.spacingclientbespokeprocessesfooter {
-    margin-bottom: 150px;
-}
-
-.table1{
-    width:80%;
-    margin-left: 10%;
-}
-
-.table2 {
-    width:90%;
-    margin-left: 5%;
-}
-
-.table3 {
-    width:100%;
-}
-
 .footerspacing {
 margin-top: 150px;
 margin-right: 10px;
 margin-left: 10px;
 }
 
-/*-----------------------------------End--Fund-Info-------------------------*/
+.table1 {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.table2 {
+    width: 90%;
+    margin-left: 5%;
+}
+
+a {
+    color: darkslateblue;
+    
+}
+
+
+/*-----------------------------------Client-1-KBC-----------------------*/
+
+.spacingclientbespokeprocessesfooter {
+    margin-bottom: 150px;
+}
+
+.table-kbc {
+width: 80%;
+
+}
+
+
+/*-----------------------------------Client-2-BOI-----------------------*/
+
+
+
 
 
 
@@ -105,10 +117,7 @@ width: 90%;
 
 }
 
-.table-kbc {
-width: 80%;
 
-}
 
 .bespoke-kbc {
 width: 100%;
@@ -117,12 +126,7 @@ width: 100%;
 
 /*Photo by Noorulabdeen Ahmad on Unsplash - Clouds*/
 
-body {
-    background-image:  url("../images/cloud.jpg");
-    background-size: cover;
-    
-    
-}
+
 
 
 
@@ -134,9 +138,23 @@ h3, h4 {
     font-weight: 700;
 }
 
-.table{
 
-    color: #fff;
-    font-weight: 900;
+.table4 {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.table2 {
+    width: 90%;
+    margin-left: 5%;
+}
+
+
+
+
+body {
+    background-image:  url("../images/cloud.jpg");
+    background-size: cover;
+    
     
 }
