@@ -74,10 +74,10 @@ margin-left: 10px;
     margin-left: 5%;
 }
 
-a {
+/*a {
     color: darkslateblue;
     
-}
+}*/
 
 h1 {
     margin-bottom: 3rem;
@@ -170,19 +170,20 @@ body {
     
 }
 
-.btn-primary {
-    color: #fff;
-    background-color: #007bff;
-    border-color: #007bff;
-}
 
-.btn-primary:hover {
-    color: #fff;
-    background-color: #0069d9;
-    border-color: #0062cc;
+
+
+a:not([href]) {
+        color: #fff;
+    text-decoration: none;
 }
 
 a:hover {
     color: red;
     text-decoration: underline;
+}
+
+footer:hover {
+color: red;
+
 }
