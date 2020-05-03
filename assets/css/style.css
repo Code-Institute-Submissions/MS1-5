@@ -145,7 +145,7 @@ width: 100%;
 
 h3, h4, h2 {
 
-    color: red;
+    color: #f0f8ff;
     font-weight: 500;
 }
 
@@ -164,10 +164,10 @@ h3, h4, h2 {
 
 
 body {
-    background-image:  url("../images/cloud.jpg");
+    
     background-size: cover;
-    
-    
+    background-color: #3d4f61;
+    color: #f0f8ff;
 }
 
 
@@ -187,3 +187,16 @@ footer:hover {
 color: red;
 
 }
+
+.progress-bar {
+
+    background-color: darkslateblue
+}
+
+.progress-bar:hover {
+
+    background-color: red;
+}
+
+
+   
