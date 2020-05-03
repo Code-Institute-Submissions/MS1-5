@@ -184,10 +184,12 @@ a:hover {
     text-decoration: none;
 }
 
+
 footer:hover {
-color: red;
+color: #d39e00;;
 
 }
+
 
 .progress-bar {
 
@@ -196,7 +198,7 @@ color: red;
 
 .progress-bar:hover {
 
-    background-color: red;
+    background-color: #d39e00;
 }
 
 
