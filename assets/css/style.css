@@ -180,8 +180,8 @@ a:not([href]) {
 }
 
 a:hover {
-    color: red;
-    text-decoration: underline;
+        color: #d39e00;
+    text-decoration: none;
 }
 
 footer:hover {
