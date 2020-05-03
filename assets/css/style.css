@@ -143,10 +143,10 @@ width: 100%;
 
 
 
-h3, h4 {
+h3, h4, h2 {
 
-    color: black;
-    font-weight: 700;
+    color: red;
+    font-weight: 500;
 }
 
 
