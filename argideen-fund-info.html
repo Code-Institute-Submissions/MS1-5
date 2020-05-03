@@ -195,34 +195,56 @@
 
  <footer>
       <!-----------------------------------------Footer1--------------------------------------------->
-      <div class="container">
-        <ul class="nav justify-content-center menuitem footerspacing">
-          <li class="nav-item size">
-            <a class="nav-link active org-chart" href="#"
-              ><i class="far fa-envelope"></i><span>Email</span></a
-            >
-          </li>
-        </ul>
-        <!-----------------------------------------Footer2--------------------------------------------->
+      <section>
+        <footer>
+          <div class="container">
+            <ul class="nav justify-content-center menuitem">
+              <li class="nav-item size">
+                <a
+                  class="nav-link active org-chart"
+                  data-toggle="popover"
+                  data-placement="top"
+                  data-content="To: PolygonFA@ffc.com"
+                >
+                  <i class="far fa-envelope"></i><span>Email</span></a
+                >
+              </li>
+            </ul>
+            <!-----------------------------------------Footer2--------------------------------------------->
+            <ul class="nav justify-content-center menuitem">
+              <li class="nav-item size">
+                <a
+                  class="nav-link org-chart"
+                  data-toggle="popover"
+                  data-placement="top"
+                  data-content="Tel: 023 452 4580"
+                  ><i class="fas fa-phone-square-alt"></i><span>Call</span></a
+                >
+              </li>
 
-        <ul class="nav justify-content-center menuitem">
-          <li class="nav-item size">
-            <a class="nav-link org-chart" href="#"
-              ><i class="fas fa-phone-square-alt"></i><span>Call</span></a
-            >
-          </li>
-          <li class="nav-item size">
-            <a class="nav-link org-chart" href="#"
-              ><i class="fab fa-linkedin"></i><span>Connect</span></a
-            >
-          </li>
-        </ul>
-      </div>
+              <li class="nav-item size">
+                <a
+                  class="nav-link org-chart"
+                  data-toggle="popover"
+                  data-placement="top"
+                  data-content="See Skype Codes on profile pages"
+                  ><i class="fas fa-comments"></i><span>Chat</span></a
+                >
+              </li>
+            </ul>
+          </div>
+        </footer>
+      </section>
     </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
-  
+
+    <script>
+      $(document).ready(function () {
+        $('[data-toggle="popover"]').popover();
+      });
+    </script>
 </body>
 </html>
