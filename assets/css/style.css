@@ -203,3 +203,31 @@ color: #d39e00;;
 
 
   
+
+
+  .progress-bar1 {
+    background-color: #8b008b;
+}
+
+.progress-bar2 {
+    background-color: #cd5c5c;
+}
+
+.progress-bar3 {
+    background-color:   #ba55d3;
+
+}
+
+.progress-bar4 {
+    background-color: #6495ed;
+}
+
+.progress-bar5 {
+    background-color: #008b8b;
+}
+
+.progress {
+
+    height: 3rem;
+    font-size: 1.25rem;
+}
