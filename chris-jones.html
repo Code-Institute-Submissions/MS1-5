@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <title>Chris Jones / Associate</title>
+  </head>
+
+  <body>
+    <!-----------------------------------------NAV1--------------------------------------------->
+    <section>
+      <header>
+        <ul class="nav justify-content-center menuitem">
+          <li class="nav-item size">
+            <a class="nav-link active org-chart" href="index.html"
+              ><i class="fas fa-home"></i><span>Home</span>
+            </a>
+          </li>
+        </ul>
+
+        <!-----------------------------------------NAV2--------------------------------------------->
+
+        <ul class="nav justify-content-center menuitem smspacing">
+          <li class="nav-item size">
+            <a class="nav-link org-chart" href="org-chart.html"
+              ><i class="fas fa-sitemap"></i><span>Org-Chart</span></a
+            >
+          </li>
+          <li class="nav-item size">
+            <a class="nav-link org-chart" href="fund-info.html"
+              ><i class="fas fa-tasks"></i><span>Fund-Info</span>
+            </a>
+          </li>
+        </ul>
+      </header>
+    </section>
+
+    <!-----------------------------------------Picture--------------------------------------------->
+
+    <section>
+      <div class="container">
+        <div class="row justify-content-center smspacing">
+          <div>
+            <h3 class="text-center profilespacing">Chris Jones</h3>
+            <h3 class="text-center profilespacing">Associate</h3>
+            <img
+              src="../assets/images/tamarcus.jpg"
+              class="img-fluid"
+              alt="image of Chris Jones / Associate"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-----------------------------------------Profile--------------------------------------------->
+    <section>
+      <div class="container-sm spacingclientbespokeprocesses">
+        <h2 class="text-center profilespacing">Profile</h2>
+        <div class="row justify-content-center">
+          <div class="col-md-10 col-lg-8">
+            <p>
+              Chris is a new joiner and is a Business Studies graduate from
+              University College Dublin. He is a keen sportsman who is combining
+              a love of long distance running with a love of Fund Accounting. He
+              has began his professional studies and is registered to take his
+              first ACCA exam in September 2020.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-----------------------------------------Progress-Bar--------------------------------------------->
+    <section>
+      <div class="container">
+        <div class="row">
+          <div class="container-sm spacingclientbespokeprocessesfooter">
+            <h2 class="text-center profilespacing">Client Knowledge</h2>
+            <div class="progress">
+              <div
+                class="progress-bar progress-bar4"
+                role="progressbar"
+                style="width: 80%;"
+                aria-valuenow="80"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              >
+                Argideen 80%
+              </div>
+            </div>
+            <div class="progress">
+              <div
+                class="progress-bar progress-bar2"
+                role="progressbar"
+                style="width: 50%;"
+                aria-valuenow="50"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              >
+                Madame 50%
+              </div>
+            </div>
+            <div class="progress">
+              <div
+                class="progress-bar progress-bar3"
+                role="progressbar"
+                style="width: 40%;"
+                aria-valuenow="40"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              >
+                Dandarca 40%
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-----------------------------------------Footer1--------------------------------------------->
+    <section>
+      <footer>
+        <div class="container">
+          <ul class="nav justify-content-center menuitem">
+            <li class="nav-item size">
+              <a
+                class="nav-link active org-chart"
+                data-toggle="popover"
+                data-placement="top"
+                data-content="To: ChrisJones@ffc.com"
+              >
+                <i class="far fa-envelope"></i><span>Email Chris</span></a
+              >
+            </li>
+          </ul>
+          <!-----------------------------------------Footer2--------------------------------------------->
+
+          <ul class="nav justify-content-center menuitem">
+            <li class="nav-item size">
+              <a
+                class="nav-link org-chart"
+                data-toggle="popover"
+                data-placement="top"
+                data-content="Tel: 023 452 4583"
+                ><i class="fas fa-phone-square-alt"></i
+                ><span>Call Chris</span></a
+              >
+            </li>
+
+            <li class="nav-item size">
+              <a
+                class="nav-link org-chart"
+                data-toggle="popover"
+                data-placement="top"
+                data-content="Skype Code: CJ312"
+                ><i class="fas fa-comments"></i><span>Chat to Chris</span></a
+              >
+            </li>
+          </ul>
+        </div>
+      </footer>
+    </section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        $('[data-toggle="popover"]').popover();
+      });
+    </script>
+  </body>
+</html>

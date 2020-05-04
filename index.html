@@ -36,78 +36,139 @@
           >
         </li>
         <li class="nav-item size">
-          <a class="nav-link org-chart" href="fund-info.html" ><i class="fas fa-tasks"></i><span>Fund-Info</span>
-          </a> 
-          
+          <a class="nav-link org-chart" href="fund-info.html"
+            ><i class="fas fa-tasks"></i><span>Fund-Info</span>
+          </a>
         </li>
       </ul>
     </header>
 
-<!-----------------------------------------Row1--------------------------------------------->
-<div class="container">
-    <div class="row">
-        <div class="col">
-
+    <section class="logospace">
+      <a href="org-chart.html" class="text-decoration-none">
+        <div class="container">
+          <div class="row justify-content-center smspacing">
+            <div>
+              <img
+                src="../assets/images/polygonfa.png"
+                class="img-fluid"
+                alt="Polygon FA Logo"
+              />
+            </div>
+          </div>
         </div>
+      </a>
+    </section>
 
-    </div>
+    <section>
+      <div class="container">
+        <div class="row smspacing justify-content-center">
+          <div class="col-12">
+            <p>
+              Polygon FA services sixty funds for Argideen Finance, Madame
+              Banking and Dandarca Bank. <br />
+              <br />
 
+              Team composition is available on the Org-Chart page. Please click
+              on the pictures for a brief biography and a breakdown of each
+              individuals knowledge on each client. <br />
+              <br />
+              The fund-info page provides a brief overview of each of the
+              clients.<br />
 
-</div>
-<!-----------------------------------------Row2--------------------------------------------->
-<div class="container">
-    <div class="row">
-        <div class="col associate2">
+              Bespoke processes and client coverage are available upon clicking
+              on the tables or the logos below. <br />
+              <br />
+
+              If you wish to reach us group contacts are available upon clicking
+              on the links at the foot of the page. <br />
+              <br />
+              Individuals contact information is available at the base of their
+              profile pages.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="container">
+        <div class="row justify-content-center">
+
         
+          <div class="col-md-4">
+            <a href="argideen-fund-info.html">
+                    <img class="imglogo" src="../assets/images/argideenfinance.png" alt="..." />
+            </a>
+          </div>
+          
 
+          <div class="col-md-4">
+             <a href="madame-fund-info.html">   
+                <img class="imglogo" src="../assets/images/madamebanking.png" alt="..." />
+             </a>            
+          </div>
+
+          <div class="col-md-4">
+            <a href="dandarca-fund-info.html">
+                <img class="imglogo" src="../assets/images/dandarcabank.png" alt="..." />
+            </a>
+          </div>
         </div>
+      </div>
+    </section>
 
-    </div>
-
-
-</div>
-<!-----------------------------------------Row3--------------------------------------------->
-<div class="container">
-    <div class="row">
-        <div class="col">
-
-        </div>
-
-    </div>
-
-
-</div>
-
-<!-----------------------------------------EndRows--------------------------------------------->
     <footer>
-    <!-----------------------------------------Footer1--------------------------------------------->
-    <div class="container">
-                <ul class="nav justify-content-center menuitem">
-                    <li class="nav-item size">
-                        <a class="nav-link active org-chart" href="#"><i class="far fa-envelope"></i><span>Email</span></a>
-                    </li>
-  
-                </ul>
-    <!-----------------------------------------Footer2--------------------------------------------->
+      <!-----------------------------------------Footer1--------------------------------------------->
+      <section>
+        <footer>
+          <div class="container">
+            <ul class="nav justify-content-center menuitem">
+              <li class="nav-item size">
+                <a
+                  class="nav-link active org-chart"
+                  data-toggle="popover"
+                  data-placement="top"
+                  data-content="To: PolygonFA@ffc.com"
+                >
+                  <i class="far fa-envelope"></i><span>Email</span></a
+                >
+              </li>
+            </ul>
+            <!-----------------------------------------Footer2--------------------------------------------->
+            <ul class="nav justify-content-center menuitem">
+              <li class="nav-item size">
+                <a
+                  class="nav-link org-chart"
+                  data-toggle="popover"
+                  data-placement="bottom"
+                  data-content="Tel: 023 452 4580"
+                  ><i class="fas fa-phone-square-alt"></i><span>Call</span></a
+                >
+              </li>
 
-    <ul class="nav justify-content-center menuitem">
-            <li class="nav-item size">
-                    <a class="nav-link org-chart" href="#"><i class="fas fa-phone-square-alt"></i><span>Call</span></a>
-            </li>
-                        <li class="nav-item size">
-                            <a class="nav-link org-chart" href="#"><i class="fab fa-linkedin"></i><span>Connect</span></a>
-                        </li>
-    
-    </ul>
-</div>
-    
-    
-    
-    
+              <li class="nav-item size">
+                <a
+                  class="nav-link org-chart"
+                  data-toggle="popover"
+                  data-placement="top"
+                  data-content="See Skype Codes on profile pages"
+                  ><i class="fas fa-comments"></i><span>Chat</span></a
+                >
+              </li>
+            </ul>
+          </div>
+        </footer>
+      </section>
     </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.slim.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        $('[data-toggle="popover"]').popover();
+      });
+    </script>
   </body>
 </html>

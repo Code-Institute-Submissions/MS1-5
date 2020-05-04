@@ -1,118 +1,253 @@
-.org {
-  margin-top: 10rem;
+/*-------------------------------------Header-------------------------*/
 
-  font-weight: 500;
-}
-.size{
+
+.size {
  width:150px;
  height: 100px;
-
 }
-
-
-img{
-    width: 324px;
-    height: 216px;
-    object-fit: scale-down;
-}
-
 
 .org-chart{
-    background-color: gray;
+    background-color: darkslateblue;
     color: #fff;
     margin:  10px;
+    }
+
+.menuitem {
+text-align: center;
 }
 
-
-
-
-.team-leader {
-  margin-top: 1rem;
-}
-
-.manager {
-  background: url("../images/tim.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-}
-
-.manager2 {
-  background: url("../images/foto.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-}
-
-.manager3 {
-  background: url("../images/viktor.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-}
-
-
-
-.associate {
-  background: url("../images/tamarcus.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-}
-
-.associatea {
-  background: url("../images/bruce.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-}
-
-.associateb {
-  background: url("../images/gregory.jpg");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-}
-.associate1 {
-  padding-right: 0px;
-}
-
-/*Photo by samsommer on Unsplash*/
-/*Photo by eberhard grossgasteiger on Unsplash*/
-/*Photo by Joshua Reddekopp on Unsplash*/
-
-/*body {
-  background-image: url("../images/mountain3.jpg");
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: right top;
-  z-index: 1;
-}*/
-
-
-
-
-
-.associate2{
-background: url("../images/Summit FA.png");
-  background-repeat: no-repeat;
-
-  height: 20rem;
-
+.menuitem i {
+ text-align: center;
+    padding: 0;
 }
 
 span {
     display: block;
 }
+/*-------------------------------------EndHeader-------------------------*/
 
-.menuitem{
+/*-------------------------------------OrgChart-------------------------*/
 
-text-align: center;
+.smspacing {
+margin-bottom: 150px;
+margin-right: 10px;
+margin-left: 10px;
+}
+
+.orgchartspacing {
+margin-bottom: 1rem;
+}
+
+/*-------------------------------------EndOrgChart-------------------------*/
+
+
+
+
+/*-------------------------------------Profile-Pages-------------------------*/
+
+.profilespacing {
+    margin-bottom: 3rem;
+}
+
+.spacingclientbespokeprocesses {
+    margin-bottom: 100px}
+}
+
+/*-------------------------------------Fund-Info-------------------------*/
+.footerspacing {
+margin-top: 150px;
+margin-right: 10px;
+margin-left: 10px;
+}
+
+
+.table {
+    font-weight: 600;
+    text-align: center;
+    color: #f0f8ff;
+}
+
+.table1 {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.table2 {
+    width: 90%;
+    margin-left: 5%;
+}
+
+a {
+    color: #f0f8ff;
+    
+}
+
+h1 {
+    margin-bottom: 3rem;
+    
+}
+    
+
+/*-----------------------------------Client-1-KBC-----------------------*/
+
+.spacingclientbespokeprocessesfooter {
+    margin-bottom: 150px;
+}
+
+.table-kbc {
+width: 80%;
 
 }
 
-.menuitem i{
 
-    text-align: center;
-    padding: 0;
+/*-----------------------------------Client-2-BOI-----------------------*/
+
+
+
+
+
+
+.marybio{
+text-align: center;
+font-weight: 600;
+
+}
+
+
+
+
+
+
+
+
+
+.progress-client1 {
+width: 70%;
+
+}
+
+.progress-kbc {
+width: 90%;
+
+}
+
+
+
+.bespoke-kbc {
+width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+h3, h4, h2 {
+
+    color: #f0f8ff;
+    font-weight: 500;
+}
+
+
+.table4 {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.table2 {
+    width: 90%;
+    margin-left: 5%;
+}
+
+
+
+
+body {
+    
+    background-size: cover;
+    background-color: #3d4f61;
+    color: #f0f8ff;
+}
+
+
+
+
+a:not([href]) {
+        color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+        color: #d39e00;
+    text-decoration: none;
+}
+
+
+footer:hover {
+color: #d39e00;;
+
+}
+
+
+.progress-bar {
+
+    background-color: darkslateblue
+}
+
+.progress-bar:hover {
+
+    background-color: #d39e00;
+}
+
+
+  
+
+
+  .progress-bar1 {
+    background-color: #8b008b;
+}
+
+.progress-bar2 {
+    background-color: #cd5c5c;
+}
+
+.progress-bar3 {
+    background-color:   #ba55d3;
+
+}
+
+.progress-bar4 {
+    background-color: #6495ed;
+}
+
+.progress-bar5 {
+    background-color: #008b8b;
+}
+
+.progress {
+
+    height: 3rem;
+    font-size: 1.25rem;
+}
+
+
+.logospace {
+
+    margin-top: 8rem;
+}
+
+
+p {
+
+    font-size: 1.5rem;
+}
+
+.imglogo {
+
+    width: 100%;
+    height: auto;
 }
