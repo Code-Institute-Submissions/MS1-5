@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
 
-/*Header*/
+
 
 .size {
  width:150px;
@@ -8,10 +8,11 @@
 }
 
 .org-chart{
-    background-color: darkslateblue;
+    background-color: #483d8b;
     color: #fff;
     margin:  10px;
     }
+
 
 .menuitem {
 text-align: center;
@@ -19,14 +20,12 @@ text-align: center;
 
 .menuitem i {
  text-align: center;
-    padding: 0;
+    padding: 0;  
 }
 
 span {
     display: block;
 }
-
-/*OrgChart*/
 
 .smspacing {
 margin-bottom: 150px;
@@ -38,8 +37,6 @@ margin-left: 10px;
 margin-bottom: 1rem;
 }
 
-/*Profile-Pages*/
-
 .profilespacing {
     margin-bottom: 3rem;
 }
@@ -48,7 +45,6 @@ margin-bottom: 1rem;
     margin-bottom: 100px;
 }
 
-/*Fund-Info*/
 .footerspacing {
 margin-top: 150px;
 margin-right: 10px;
@@ -67,11 +63,6 @@ margin-left: 10px;
     margin-left: 10%;
 }
 
-.table2 {
-    width: 90%;
-    margin-left: 5%;
-}
-
 a {
     color: #f0f8ff;  
 }
@@ -79,8 +70,7 @@ a {
 h1 {
     margin-bottom: 3rem;
 }
-    
-/*Client-1-KBC*/
+
 
 .spacingclientbespokeprocessesfooter {
     margin-bottom: 150px;
@@ -91,28 +81,16 @@ width: 80%;
 
 }
 
-
-/*Client-2-BOI*/
-
-.marybio{
-text-align: center;
-font-weight: 600;
-
-}
-
 .progress-client1 {
 width: 70%;
-
 }
 
 .progress-kbc {
 width: 90%;
-
 }
 
 .bespoke-kbc {
 width: 100%;
-
 }
 
 .table4 {
@@ -132,8 +110,7 @@ body {
     background-color: #3d4f61;
     color: #f0f8ff;
     font-family: "Merriweather", sans-serif;
-    
-}
+    }
 
 a:not([href]) {
         color: #fff;
@@ -147,11 +124,10 @@ a:hover {
 
 footer:hover {
 color: #d39e00;;
-
 }
 
 .progress-bar {
-    background-color: darkslateblue
+    background-color: #483d8b;
 }
 
 .progress-bar:hover {
