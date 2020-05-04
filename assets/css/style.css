@@ -237,7 +237,7 @@ color: #d39e00;;
 
 .logospace {
 
-    margin-top: 8rem;
+    margin-top: 5rem;
 }
 
 
@@ -250,4 +250,8 @@ p {
 
     width: 100%;
     height: auto;
+}
+
+.logo-space-sm {
+    margin: 1rem;
 }
