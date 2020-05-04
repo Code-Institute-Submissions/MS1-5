@@ -1,4 +1,6 @@
 /*-------------------------------------Header-------------------------*/
+
+
 .size {
  width:150px;
  height: 100px;
@@ -242,4 +244,10 @@ color: #d39e00;;
 p {
 
     font-size: 1.5rem;
+}
+
+.imglogo {
+
+    width: 100%;
+    height: auto;
 }
