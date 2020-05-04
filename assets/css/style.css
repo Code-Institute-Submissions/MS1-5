@@ -1,5 +1,6 @@
-/*-------------------------------------Header-------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
 
+/*Header*/
 
 .size {
  width:150px;
@@ -24,9 +25,8 @@ text-align: center;
 span {
     display: block;
 }
-/*-------------------------------------EndHeader-------------------------*/
 
-/*-------------------------------------OrgChart-------------------------*/
+/*OrgChart*/
 
 .smspacing {
 margin-bottom: 150px;
@@ -38,33 +38,28 @@ margin-left: 10px;
 margin-bottom: 1rem;
 }
 
-/*-------------------------------------EndOrgChart-------------------------*/
-
-
-
-
-/*-------------------------------------Profile-Pages-------------------------*/
+/*Profile-Pages*/
 
 .profilespacing {
     margin-bottom: 3rem;
 }
 
 .spacingclientbespokeprocesses {
-    margin-bottom: 100px}
+    margin-bottom: 100px;
 }
 
-/*-------------------------------------Fund-Info-------------------------*/
+/*Fund-Info*/
 .footerspacing {
 margin-top: 150px;
 margin-right: 10px;
 margin-left: 10px;
 }
 
-
 .table {
     font-weight: 600;
     text-align: center;
     color: #f0f8ff;
+    font-family: sans-serif;
 }
 
 .table1 {
@@ -78,17 +73,14 @@ margin-left: 10px;
 }
 
 a {
-    color: #f0f8ff;
-    
+    color: #f0f8ff;  
 }
 
 h1 {
     margin-bottom: 3rem;
-    
 }
     
-
-/*-----------------------------------Client-1-KBC-----------------------*/
+/*Client-1-KBC*/
 
 .spacingclientbespokeprocessesfooter {
     margin-bottom: 150px;
@@ -100,26 +92,13 @@ width: 80%;
 }
 
 
-/*-----------------------------------Client-2-BOI-----------------------*/
-
-
-
-
-
+/*Client-2-BOI*/
 
 .marybio{
 text-align: center;
 font-weight: 600;
 
 }
-
-
-
-
-
-
-
-
 
 .progress-client1 {
 width: 70%;
@@ -131,27 +110,10 @@ width: 90%;
 
 }
 
-
-
 .bespoke-kbc {
 width: 100%;
 
 }
-
-
-
-
-
-
-
-
-
-h3, h4, h2 {
-
-    color: #f0f8ff;
-    font-weight: 500;
-}
-
 
 .table4 {
     width: 80%;
@@ -164,17 +126,14 @@ h3, h4, h2 {
 }
 
 
-
-
 body {
     
     background-size: cover;
     background-color: #3d4f61;
     color: #f0f8ff;
+    font-family: "Merriweather", sans-serif;
+    
 }
-
-
-
 
 a:not([href]) {
         color: #fff;
@@ -186,26 +145,18 @@ a:hover {
     text-decoration: none;
 }
 
-
 footer:hover {
 color: #d39e00;;
 
 }
 
-
 .progress-bar {
-
     background-color: darkslateblue
 }
 
 .progress-bar:hover {
-
     background-color: #d39e00;
 }
-
-
-  
-
 
   .progress-bar1 {
     background-color: #8b008b;
@@ -217,7 +168,6 @@ color: #d39e00;;
 
 .progress-bar3 {
     background-color:   #ba55d3;
-
 }
 
 .progress-bar4 {
@@ -229,20 +179,16 @@ color: #d39e00;;
 }
 
 .progress {
-
     height: 3rem;
     font-size: 1.25rem;
 }
 
 
 .logospace {
-
-    margin-top: 8rem;
+  margin-top: 5rem;
 }
 
-
 p {
-
     font-size: 1.5rem;
 }
 
@@ -251,3 +197,8 @@ p {
     width: 100%;
     height: auto;
 }
+
+.logo-space-sm {
+    margin: 1rem;
+}
+
