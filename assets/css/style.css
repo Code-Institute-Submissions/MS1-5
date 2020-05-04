@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+
 /*-------------------------------------Header-------------------------*/
 
 
@@ -65,6 +67,7 @@ margin-left: 10px;
     font-weight: 600;
     text-align: center;
     color: #f0f8ff;
+    font-family: sans-serif;
 }
 
 .table1 {
@@ -146,11 +149,7 @@ width: 100%;
 
 
 
-h3, h4, h2 {
 
-    color: #f0f8ff;
-    font-weight: 500;
-}
 
 
 .table4 {
@@ -171,6 +170,8 @@ body {
     background-size: cover;
     background-color: #3d4f61;
     color: #f0f8ff;
+    font-family: "Merriweather", sans-serif;
+    
 }
 
 
@@ -255,3 +256,4 @@ p {
 .logo-space-sm {
     margin: 1rem;
 }
+
