@@ -120,3 +120,9 @@ Also reading old and new slack conversations with the whole community was a grea
 are very on point.
 
 I would also like to thank my mentor Guido Cecilio.
+
+All profile pictures were sourced from unsplash.com. Site is for educational purposes only and not for profit.
+
+** Disclaimer
+
+The site is for educational purposes only. All profiles and companies are fictional and any resemblance to any real entities are unintentional.
