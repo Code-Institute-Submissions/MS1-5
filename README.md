@@ -12,11 +12,15 @@ This site will attempt to provide answers to those questions in a quick, user fr
 
 ## UX
 
-<div>
- <img src="https://github.com/gerd113/MS1/tree/master/assets/wireframes/Landing-page.png"></img><br>
 
-</div>
-This section is also where you would share links to any wireframes, mock-ups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+
+* [Wireframes](https://github.com/gerd113/MS1/tree/master/assets/wireframes) - to generate logos
+
+
+ 
+
+
+
 ### User Stories
 
 ### John, FA Team Leader
@@ -35,21 +39,21 @@ We have identified this team as the team the new funds would go into. We are not
 ## Features
 
 # Existing Features
-•	From the landing page John can directly access his client information by clicking on the relevant logo or by clicking the fund-info button at the top of the page. From there he can drill down further if he requires more information. He will also easily see who the best people to talk to are from the progress bars. To note – the bespoke processes are intentionally left as “Lorem Ipsum”. This is to avoid any inadvertent privacy breaches. 
-•	Jessica, the new head of FA can easily see what clients are in the team from the 3 logos. She can also see the composition of the team by clicking on the team logo or the org-chart button. From the org-chart page she can easily see the hierarchy of the team and can see their biographies by clicking on the pictures. She will know their names and faces without summoning them for a meeting.
-•	Linda, the Relationship Manager can also easily access the org-chart and biographies and use the pages to present to the prospective client in a more visually appealing way than the usual PowerPoint show.
+*	From the landing page John can directly access his client information by clicking on the relevant logo or by clicking the fund-info button at the top of the page. From there he can drill down further if he requires more information. He will also easily see who the best people to talk to are from the progress bars. To note – the bespoke processes are intentionally left as “Lorem Ipsum”. This is to avoid any inadvertent privacy breaches. 
+*	Jessica, the new head of FA can easily see what clients are in the team from the 3 logos. She can also see the composition of the team by clicking on the team logo or the org-chart button. From the org-chart page she can easily see the hierarchy of the team and can see their biographies by clicking on the pictures. She will know their names and faces without summoning them for a meeting.
+*	Linda, the Relationship Manager can also easily access the org-chart and biographies and use the pages to present to the prospective client in a more visually appealing way than the usual PowerPoint show.
 
 ## Technologies Used
 
 * HTML 
 * CSS 
 * [Canva](https://www.canva.com/) - to generate logos
-* [Bootstrap](https://getbootstrap.com/) - for responsiveness, raw code taken for popovers, tables, progress bars etc
+* [Bootstrap](https://getbootstrap.com/) - for responsiveness, raw code taken for popovers, tables, progress bars, images etc and amended as necessary.
 * [Google Fonts](https://fonts.google.com/) - Merriweather font used
 * [GIT](https://git-scm.com/) - Version Control
 * [GitHub](https://github.com/) - to host the repositories for this project and the live 
     website preview
-* [W3 Schools](https://validator.w3.org/) - to validate CSS and HTML
+* [W3 Schools](https://validator.w3.org/) - to validate CSS and HTML. Info to enable js for popover taken from here as well.
 * [Autoprefixer](https://autoprefixer.github.io/) - to parse CSS and add vendor prefixes to CSS
 * Eventyret's Bootstrap 4 extension `!bscdn` used adding jquery and popper to the above
 
@@ -118,7 +122,7 @@ git clone https://github.com/D0nni387/The-Quiz-Hub.git
 
 Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
 
-** Credits
+## Credits
 
 Inspiration for the project came from my experiences working for large international fund administrators PNC Bank, BNY Mellon and Northern Trust.
 
