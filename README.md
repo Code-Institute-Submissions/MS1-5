@@ -1,6 +1,6 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-#Polygon FA
+# Polygon FA
 Polygon FA is a fictional Fund Accounting group within a large Fund Accounting department of an international administrator.
 Fund Accounting is the process of calculating a NAV (Net Asset Value) per share for an Investment Fund and publishing that price in the financial markets. Reputational and financial punishments are incurred in the event of late and/or incorrect NAV’s.
 The aim of this site is to help ensure that accurate, timely NAV’s are published in times of crisis. Crisis times regularly occur when annual leave is combined with sick leave and is exacerbated due to the current Covid-19 pandemic. In my experience lots of time is lost due to the wrong people being asked questions but still trying to help. More time tends to be lost than saved despite the good intentions.
@@ -11,15 +11,15 @@ This site will attempt to provide answers to those questions in a quick, user fr
 UX
 
 This section is also where you would share links to any wireframes, mock-ups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-###John FA Team Leader
+### John FA Team Leader
 As an experienced FA professional, I have been asked to help the team make their NAV release deadlines for today. They have asked me to do a group of funds with a deadline of 12:00 GMT. I am happy in general with the packs however I need to know any of the funds employ hedging techniques or calculate performance fees and if so; what type? Do any of the funds have bespoke processes?
 I want to be 100% certain I have not missed anything so would like to talk to the client owner if possible or the person with the most client experience available.
 
-###Jessica James, Head of FA
+### Jessica James, Head of FA
 I have just joined the company as the new Head of Fund Accounting.
 I would like a means to know which clients are serviced in the team, who is in the team and their work biographies. I would like a means to be able to put names to faces and have people comfortable with me. I would prefer to get this information and meet the team informally armed with some information. In my experience lots of people are uncomfortable providing this information in a group meeting scenario.
 
-###Linda Peters, Relationship Manager
+### Linda Peters, Relationship Manager
 A prospective new client has 2 new funds launching and we have been invited to pitch for the administration rights at short notice.
 We have identified this team as the team the new funds would go into. We are not the cheapest option for the client, a big part of our pitch will be the quality of our service and experience of our people.  I would like quick, easy access to this information as I only have a short time to prepare. 
 
