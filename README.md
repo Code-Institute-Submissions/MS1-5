@@ -38,7 +38,7 @@ We have identified this team as the team the new funds would go into. We are not
 
 ## Features
 
-# Existing Features
+
 *	From the landing page John can directly access his client information by clicking on the relevant logo or by clicking the fund-info button at the top of the page. From there he can drill down further if he requires more information. He will also easily see who the best people to talk to are from the progress bars. To note – the bespoke processes are intentionally left as “Lorem Ipsum”. This is to avoid any inadvertent privacy breaches. 
 *	Jessica, the new head of FA can easily see what clients are in the team from the 3 logos. She can also see the composition of the team by clicking on the team logo or the org-chart button. From the org-chart page she can easily see the hierarchy of the team and can see their biographies by clicking on the pictures. She will know their names and faces without summoning them for a meeting.
 *	Linda, the Relationship Manager can also easily access the org-chart and biographies and use the pages to present to the prospective client in a more visually appealing way than the usual PowerPoint show.
@@ -91,13 +91,13 @@ My experience in FA tells me that there is so much data available on SharePoint 
 
 A similar pattern emerged with the fund info-page. I decided to give each client their own page after one summary page appeared too packed with info.
 
-Bootstarp Modal and HTML to send an email were considered for the footer links. In the end however I decided to go with Bootstrap popovers on all 3 for consistency on this static project.
+Bootstrap Modal and HTML to send an email were considered for the footer links. In the end however I decided to go with Bootstrap popovers on all 3 for consistency on this static project.
 
 
 
 ## Deployment
 
-To deploy this page to GitHub Pages from its [GitHub repository](https://d0nni387.github.io/The-Quiz-Hub/), the following steps were taken: 
+To deploy this page to GitHub Pages from it's Github repository the following steps were taken: 
 
 1. From the menu items near the top of the page, select **Settings**.
 2. Scroll down to the **GitHub Pages** section.
@@ -106,21 +106,7 @@ To deploy this page to GitHub Pages from its [GitHub repository](https://d0nni38
 5. Scroll back down to the **GitHub Pages** section to retrieve the link to the deployed website.
  
 
-### How to run this project locally
 
-To clone this project from GitHub:
-
-1. Under the repository name, click "Clone or download".
-2. In the Clone with HTTPs section, copy the clone URL for the repository. 
-3. In your local IDE open Git Bash.
-4. Change the current working directory to the location where you want the cloned directory to be made.
-5. Type ```git clone```, and then paste the URL you copied in Step 3.
-```console
-git clone https://github.com/D0nni387/The-Quiz-Hub.git
-```
-6. Press Enter. Your local clone will be created.
-
-Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
 
 ## Credits
 
@@ -128,7 +114,7 @@ Inspiration for the project came from my experiences working for large internati
 
 How to use the Bootstrap 4 grid - Demo site by Anna Gilhespy on You Tube was incredibly useful in helping to get to grips with Bootsrap.
 
-I attended 2 slack calls hosted by Richard Wells which were also very useful.
+I attended 2 slack calls hosted by Richard Wells which were also very useful. Deployment instructions were provided  by Richard.
 
 Also reading old and new slack conversations with the whole community was a great help in solving problems encountered and problems I wasn't aware I had, in particular the contributions of @Eventyret_mentor and @anna_ci 
 are very on point.
