@@ -14,7 +14,7 @@ This site will attempt to provide answers to those questions in a quick, user fr
 
 
 
-* [Wireframes](https://github.com/gerd113/MS1/tree/master/assets/wireframes) - to generate logos
+* [Wireframes](https://github.com/gerd113/MS1/tree/master/assets/wireframes) 
 
 
  
