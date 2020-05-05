@@ -5,12 +5,20 @@ Polygon FA is a fictional Fund Accounting group within a large Fund Accounting d
 Fund Accounting is the process of calculating a NAV (Net Asset Value) per share for an Investment Fund and publishing that price in the financial markets. Reputational and financial punishments are incurred in the event of late and/or incorrect NAV’s.
 The aim of this site is to help ensure that accurate, timely NAV’s are published in times of crisis. Crisis times regularly occur when annual leave is combined with sick leave and is exacerbated due to the current Covid-19 pandemic. In my experience lots of time is lost due to the wrong people being asked questions but still trying to help. More time tends to be lost than saved despite the good intentions.
 Help from experienced people will be sought from other teams to assist the team in difficulty. These experienced people will be familiar with 80% of what is required; however, most funds have bespoke processes that the individual will need to become aware of quickly. 
+
 The secondary purpose is so someone outside the group can put positions and names to faces and vice versa.
+
 This site will attempt to provide answers to those questions in a quick, user friendly manner and provide a guide as to who to approach if necessary. It is intended that the user will not be bombarded with information, is only confronted with what they need but can dig deeper with a click if they require more.
 
-UX
+## UX
 
+<div>
+ <img src="https://github.com/gerd113/MS1/tree/master/assets/wireframes/Landing-page.png"></img><br>
+
+</div>
 This section is also where you would share links to any wireframes, mock-ups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+### User Stories
+
 ### John, FA Team Leader
 As an experienced FA professional, I have been asked to help the team make their NAV release deadlines for today. They have asked me to do a group of funds with a deadline of 12:00 GMT. I am happy in general with the packs however I need to know any of the funds employ hedging techniques or calculate performance fees and if so; what type? Do any of the funds have bespoke processes?
 I want to be 100% certain I have not missed anything so would like to talk to the client owner if possible or the person with the most client experience available.
@@ -54,7 +62,7 @@ Also entered the site on http://ami.responsivedesign.is/.
 Physically self checked that the pages rendered correctly on Chrome, Edge and Internet Explorer browsers on desktop. 
 All navigation links were tested on each page to check that they were linked to the correct pages. Likewise clicked on logos, pictures and tables were going to the correct page when clicked.
 Group contact information was checked on each summary page to check that all were showing PolygonFA@ffc.com, a group nessage for chat and 1 phone number which it would be intended that all members of the groupw ould be on a pick up list.
-All contact information on individualk profile pages were clicked to check that they reflected the correct user eg PhilMoore@ffc.com. 
+All contact information on individual profile pages were clicked to check that they reflected the correct user eg PhilMoore@ffc.com. 
 All the above checks were also physically completed by myself on Samsung A7 in a Chrome browser and an ipad mini on Safari.
 1 issue encountered on Chrome Developer tools. The footer buttons appear stacked instead of in a triangle as intended on Iphone 5SE
 
@@ -71,7 +79,7 @@ On Mobile and desktop all pages are intended to be triangular, eg on the fund in
 The effect is less obvious on mobile with org charts, landing, profile pages appearing stacked, the nav links, footer buttons and Polygon FA logo still somewhat convey the triangular effect.
 
 The design changed as the site was being built. The original landing page was a Microsoft Paint triangle with a little bit of text. This was changed upon reading a slack conversation where it was mentioned that logos coould be made on canva.com (@Eventyret_mentor).
-I believe the clickable logos are more effective than text to attract the user to the required information. This advice was given by .
+I believe the clickable logos are more effective than text to attract the user to the required information. 
 
 It was intended at the outset that the org chart would have a brief biographies beside some people photo and under others. Upon seeing it on the page I decided it was more in keeping to keep 1 page just pictureswhich invite the user to click if more info was required.
 This is more in keeping with my original plan of not bomabrding the user with info that they're not looking for.
