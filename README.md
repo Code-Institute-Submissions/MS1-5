@@ -11,7 +11,7 @@ This site will attempt to provide answers to those questions in a quick, user fr
 UX
 
 This section is also where you would share links to any wireframes, mock-ups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-### John FA Team Leader
+### John, FA Team Leader
 As an experienced FA professional, I have been asked to help the team make their NAV release deadlines for today. They have asked me to do a group of funds with a deadline of 12:00 GMT. I am happy in general with the packs however I need to know any of the funds employ hedging techniques or calculate performance fees and if so; what type? Do any of the funds have bespoke processes?
 I want to be 100% certain I have not missed anything so would like to talk to the client owner if possible or the person with the most client experience available.
 
@@ -24,9 +24,9 @@ A prospective new client has 2 new funds launching and we have been invited to p
 We have identified this team as the team the new funds would go into. We are not the cheapest option for the client, a big part of our pitch will be the quality of our service and experience of our people.  I would like quick, easy access to this information as I only have a short time to prepare. 
 
 
-##Features
+## Features
 
-#Existing Features
+# Existing Features
 •	From the landing page John can directly access his client information by clicking on the relevant logo or by clicking the fund-info button at the top of the page. From there he can drill down further if he requires more information. He will also easily see who the best people to talk to are from the progress bars. To note – the bespoke processes are intentionally left as “Lorem Ipsum”. This is to avoid any inadvertent privacy breaches. 
 •	Jessica, the new head of FA can easily see what clients are in the team from the 3 logos. She can also see the composition of the team by clicking on the team logo or the org-chart button. From the org-chart page she can easily see the hierarchy of the team and can see their biographies by clicking on the pictures. She will know their names and faces without summoning them for a meeting.
 •	Linda, the Relationship Manager can also easily access the org-chart and biographies and use the pages to present to the prospective client in a more visually appealing way than the usual PowerPoint show.
@@ -47,7 +47,7 @@ We have identified this team as the team the new funds would go into. We are not
 
 
 
-##Testing
+## Testing
 
 Ran code on Chrome Developer Tools to check responsiveness.
 Also entered the site on http://ami.responsivedesign.is/.
@@ -110,11 +110,15 @@ git clone https://github.com/D0nni387/The-Quiz-Hub.git
 
 Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
 
-**Credits
+** Credits
 
 Inspiration for the project came from my experiences working for large international fund administrators PNC Bank, BNY Mellon and Northern Trust.
+
 How to use the Bootstrap 4 grid - Demo site by Anna Gilhespy on You Tube was incredibly useful in helping to get to grips with Bootsrap.
+
 I attended 2 slack calls hosted by Richard Wells which were also very useful.
+
 Also reading old and new slack conversations with the whole community was a great help in solving problems encountered and problems I wasn't aware I had, in particular the contributions of @Eventyret_mentor and @anna_ci 
 are very on point.
+
 I would also like to thank my mentor Guido Cecilio.
